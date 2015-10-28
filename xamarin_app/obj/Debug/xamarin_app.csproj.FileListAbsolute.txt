@@ -1,0 +1,13 @@
+F:\_programming_develop\_____Bachelor\xamarin_app\xamarin_app\bin\Debug\xamarin_app.dll
+F:\_programming_develop\_____Bachelor\xamarin_app\xamarin_app\bin\Debug\xamarin_app.pdb
+F:\_programming_develop\_____Bachelor\xamarin_app\xamarin_app\bin\Debug\xamarin_app.xamarin_app.apk
+F:\_programming_develop\_____Bachelor\xamarin_app\xamarin_app\bin\Debug\xamarin_app.xamarin_app-Signed.apk
+F:\_programming_develop\_____Bachelor\xamarin_app\xamarin_app\obj\Debug\xamarin_app.csprojResolveAssemblyReference.cache
+F:\_programming_develop\_____Bachelor\xamarin_app\xamarin_app\obj\Debug\xamarin_app.dll
+F:\_programming_develop\_____Bachelor\xamarin_app\xamarin_app\obj\Debug\xamarin_app.pdb
+F:\_programming_develop\_____Bachelor\xamarin_app\xamarin_app\obj\Debug\android\bin\xamarin_app.xamarin_app.apk
+F:\_programming_develop\_____Bachelor\xamarin_app\xamarin_app\obj\Debug\res\layout\main.xml
+F:\_programming_develop\_____Bachelor\xamarin_app\xamarin_app\obj\Debug\res\values\strings.xml
+F:\_programming_develop\_____Bachelor\xamarin_app\xamarin_app\obj\Debug\res\drawable\icon.png
+F:\_programming_develop\_____Bachelor\xamarin_app\xamarin_app\obj\Debug\R.cs.flag
+F:\_programming_develop\_____Bachelor\xamarin_app\xamarin_app\obj\Debug\uploadflags.txt

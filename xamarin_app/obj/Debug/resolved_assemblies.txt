@@ -1,0 +1,7 @@
+F:\_programming_develop\_____Bachelor\xamarin_app\xamarin_app\obj\Debug\assemblies\xamarin_app.dll
+F:\_programming_develop\_____Bachelor\xamarin_app\xamarin_app\obj\Debug\assemblies\Mono.Android.dll
+F:\_programming_develop\_____Bachelor\xamarin_app\xamarin_app\obj\Debug\assemblies\mscorlib.dll
+F:\_programming_develop\_____Bachelor\xamarin_app\xamarin_app\obj\Debug\assemblies\System.Core.dll
+F:\_programming_develop\_____Bachelor\xamarin_app\xamarin_app\obj\Debug\assemblies\System.dll
+F:\_programming_develop\_____Bachelor\xamarin_app\xamarin_app\obj\Debug\assemblies\System.Xml.dll
+F:\_programming_develop\_____Bachelor\xamarin_app\xamarin_app\obj\Debug\assemblies\System.Xml.Linq.dll

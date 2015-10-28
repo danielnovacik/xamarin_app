@@ -1,0 +1,4 @@
+xamarin_app.MainActivity, xamarin_app;md5dbd2994fd2275cfb897d0e1c7576d48e.MainActivity
+xamarin_app.MainActivity, xamarin_app, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5dbd2994fd2275cfb897d0e1c7576d48e.MainActivity
+xamarin_app.MainActivity;md5dbd2994fd2275cfb897d0e1c7576d48e.MainActivity
+xamarin_app.MainActivity;md5dbd2994fd2275cfb897d0e1c7576d48e.MainActivity
